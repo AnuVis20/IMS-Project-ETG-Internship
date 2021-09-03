@@ -1,1 +1,0 @@
-{"11003": {"product_name": "Protein powder", "expiry": "19-01-2022", "price": 567, "category": "Supplement", "quantity": 45}, "110048": {"product_name": "Thyme", "expiry": "19-09-2023", "price": 80, "category": "Seasoning and spices", "quantity": 58}, "110039": {"product_name": "Sunfeast Yippee Noodles", "expiry": "08-12-2021", "price": 90, "category": "Noodles", "quantity": 56}}
