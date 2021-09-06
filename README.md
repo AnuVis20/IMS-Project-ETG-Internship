@@ -1,5 +1,5 @@
 # IMS-Project-ETG-Internship
-TThe project is an inventory management system. I have divided it into four parts.
+The project is an inventory management system. I have divided it into four parts.
 
 The first section of the project contains a nested dictionary of 50 products with product id as the key and other details like product name, price, expiry date, quantity, and category as the value of each key. Then the dictionary is converted to a JSON file.
 
